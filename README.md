@@ -2,12 +2,12 @@
 
 ### <h2> Hi I am Mr Sơn IT 👋 </h2>
 
-<img align='right' src="https://www.pinterest.ca/pin/130885932912037184/" width="338">
+<img align='right' src="https://www.pinterest.ca/pin/130885932912037184" width="338">
 
 ```js
 
 exports.mySelf = {
-fullname: “Đặng Văn Sơn”,
+fullname: “Dang Van Son”,
 nationality: “Vietnamese”,
 pronouns: “He” | “Him”,
 askMeAbout: [
