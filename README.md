@@ -16,7 +16,6 @@ askMeAbout: [
 technologies: {
 backEnd: {
 js: [ “express”],
-etclang : [“golang”],
 misc: [“windows”, “Yarn”]
 },
 databases: [ “MongoDb”]
