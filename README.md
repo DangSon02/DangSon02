@@ -1,4 +1,5 @@
-# 💫About Me :
+Hi there 👋
+Hi I am Mr Sơn IT 👋
 exports.mySelf ={
 nationality: “Vietnamese”,
 pronouns: “He” | “Him”,
