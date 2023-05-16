@@ -2,7 +2,7 @@
 
 ### <h2> Hi I am Mr Sơn IT 👋 </h2>
 
-<img align='right' src="https://i.pinimg.com/564x/8c/72/44/8c7244fbc7569df63a2efae3a5de6aca.jpg" width="338">
+<img align='right' src="https://i.pinimg.com/564x/8c/72/44" width="338">
 
 ```js
 
