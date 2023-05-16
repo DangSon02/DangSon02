@@ -4,7 +4,7 @@
 
 <img align='right' src="https://i.pinimg.com/564x/9e/49/5e/9e495ec4a19556b9a47e7ac8a0ce9b06.jpg" width="338">
 
-```js
+
 
 exports.mySelf = {
 fullname: “Dang Van Son”,
@@ -23,7 +23,7 @@ databases: [ “MongoDb”]
 experience: “I am a software engineering student”
 };
 
-```
+
 
 ![Mr Sơn IT github stats](https://github-readme-stats.vercel.app/api?username=DangSon02&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DangSon02&theme=radical&hide_border=false)<br/>
