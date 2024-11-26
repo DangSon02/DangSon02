@@ -12,14 +12,14 @@ fullname: “Dang Van Son”,
 nationality: “Vietnamese”,
 pronouns: “He” | “Him”,
 askMeAbout: [
-“webdev”, “nodejs dev”, “backend dev”, “javascript”, “mongodb”, “expressjs”
+“webdev”, “nodejs dev”, “backend dev”, “javascript”, “typescript”, “mysql”, “mongodb”, “nestjs”, “expressjs”
 ],
 technologies: {
 backEnd: {
-js: [ “express”],
+js: [ “express”,“nestjs”],
 misc: [“windows”, “Yarn”]
 },
-databases: [ “MongoDb”]
+databases: [ “MongoDb”,“mysql”]
 },
 experience: “I am a software engineering student”
 };
