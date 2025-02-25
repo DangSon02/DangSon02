@@ -2,7 +2,7 @@
 
 ### <h2> Hi I am Mr Sơn IT 👋 </h2>
 
-<img align='right' src="https://i.pinimg.com/564x/5e/ca/2d/5eca2d1ca11b70ed38b68c7b3ad80c1a.jpg" width="350">
+<img align='right' src="https://i.pinimg.com/236x/6a/94/bd/6a94bd982502f3cc5a8140e913bee93f.jpg" width="350">
 
 
 ```js
@@ -12,16 +12,18 @@ fullname: “Dang Van Son”,
 nationality: “Vietnamese”,
 pronouns: “He” | “Him”,
 askMeAbout: [
-“webdev”, “nodejs dev”, “backend dev”, “javascript”, “typescript”, “mysql”, “mongodb”, “nestjs”, “expressjs”
+“webdev”, “nodejs dev”, “backend dev”, “javascript”, “typescript”, “mysql”, “mongodb”, “nestjs”, “expressjs”,“java”,
 ],
 technologies: {
 backEnd: {
 js: [ “express”,“nestjs”],
+java: [ “spring boot”],
 misc: [“windows”, “Yarn”]
 },
-databases: [ “MongoDb”,“mysql”]
+databases: [ “MongoDb”,“mysql”,“redis”],
+tool: [ “Docker”]
 },
-experience: “I am a software engineering student”
+experience: “I am a software engineer student”
 };
 
 ```
