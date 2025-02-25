@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### <h2> Hi I am Mr Sơn IT 👋 </h2>
+### <h2> Hi I am DANG SON 👋 </h2>
 
 <img align='right' src="https://i.pinimg.com/236x/6a/94/bd/6a94bd982502f3cc5a8140e913bee93f.jpg" width="350">
 
